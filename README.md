@@ -17,7 +17,7 @@ Bu WordPress eklentisi, web sitenizde bir WhatsApp butonu eklemenizi sağlar.
 
 ## Kullanım
 ![WhatsApp](https://i.hizliresim.com/gr12wgf.png)
-- Eklenti, web sitenizin alt kısmına otomatik olarak bir WhatsApp geri arama butonu ekler.
+- Eklenti, web sitenizin alt kısmına otomatik olarak bir WhatsApp  butonu ekler.
 - Admin panelinde belirtilen telefon numarasına tıkladığınızda, belirtilen telefon numarasına otomatik bir WhatsApp mesajı gönderilir.
 
 ## Lisans
